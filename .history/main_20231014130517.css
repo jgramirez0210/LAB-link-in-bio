@@ -1,0 +1,20 @@
+body {
+  background-image: url('https://img.freepik.com/premium-vector/abstract-background-gray-hexagon-line-dark-gray-background-vector-illustration_11700-575.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: ;
+}
+img {
+  height: 50px;
+}
+.profile-info {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+#photo {
+  width: 200px;
+  height: 250px;
+  border-radius: 50%;
+}

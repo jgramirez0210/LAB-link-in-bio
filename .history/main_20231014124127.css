@@ -1,0 +1,11 @@
+.profile-photo {
+  height: 400px;
+}
+img {
+  height: 50px;
+}
+.profile-info {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}

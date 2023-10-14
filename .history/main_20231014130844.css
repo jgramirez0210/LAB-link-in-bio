@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 100vh;
+  height: cover;
 }
 img {
   height: 50px;
@@ -22,13 +22,4 @@ img {
   width: 200px;
   height: 250px;
   border-radius: 50%;
-}
-.btn-primary {
-  width: 400px;
-}
-.d-grid {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }

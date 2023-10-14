@@ -1,0 +1,16 @@
+body {
+  background-image: back;
+}
+img {
+  height: 50px;
+}
+.profile-info {
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+#photo {
+  width: 200px;
+  height: 250px;
+  border-radius: 50%;
+}
